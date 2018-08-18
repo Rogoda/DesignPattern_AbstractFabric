@@ -3,9 +3,9 @@ C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\bin\Debug\netcor
 C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\bin\Debug\netcoreapp2.1\DesignPattern_AbstractFabric.runtimeconfig.dev.json
 C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\bin\Debug\netcoreapp2.1\DesignPattern_AbstractFabric.dll
 C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\bin\Debug\netcoreapp2.1\DesignPattern_AbstractFabric.pdb
-C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\obj\Debug\netcoreapp2.1\DesignPattern_AbstractFabric.csprojAssemblyReference.cache
 C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\obj\Debug\netcoreapp2.1\DesignPattern_AbstractFabric.csproj.CoreCompileInputs.cache
 C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\obj\Debug\netcoreapp2.1\DesignPattern_AbstractFabric.AssemblyInfoInputs.cache
 C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\obj\Debug\netcoreapp2.1\DesignPattern_AbstractFabric.AssemblyInfo.cs
 C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\obj\Debug\netcoreapp2.1\DesignPattern_AbstractFabric.dll
 C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\obj\Debug\netcoreapp2.1\DesignPattern_AbstractFabric.pdb
+C:\Users\Rafał\Documents\GitRepos\DesignPattern_AbstractFabric\obj\Debug\netcoreapp2.1\DesignPattern_AbstractFabric.csprojResolveAssemblyReference.cache

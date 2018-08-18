@@ -686,6 +686,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\Users\\Rafał\\Documents\\GitRepos\\DesignPattern_AbstractFabric\\DesignPattern_AbstractFabric.csproj",
       "projectName": "DesignPattern_AbstractFabric",
@@ -723,7 +726,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.1.0, )",
+            "version": "2.1.0",
             "autoReferenced": true
           }
         },
